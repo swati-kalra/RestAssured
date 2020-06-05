@@ -5,11 +5,6 @@ import org.testng.annotations.Test;
 
 public class JuiceShopTest {
 
-    @BeforeTest
-    public void setup(){
-        RestAssured.baseURI = "http://juice-shop:3000";
-    }
-
     @Test
     public void newUserCreation(){
         RestAssured.baseURI = "http://juice-shop:3000";
