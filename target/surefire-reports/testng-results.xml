@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="JuiceShopTest" duration-ms="1271" started-at="2020-06-05T11:58:48Z" finished-at="2020-06-05T11:58:50Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="1271" started-at="2020-06-05T11:58:48Z" finished-at="2020-06-05T11:58:50Z">
+      <class name="JuiceShopTest">
+        <test-method status="PASS" signature="newUserCreation()[pri:0, instance:JuiceShopTest@1324409e]" name="newUserCreation" duration-ms="1249" started-at="2020-06-05T11:58:48Z" finished-at="2020-06-05T11:58:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newUserCreation -->
+      </class> <!-- JuiceShopTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- JuiceShopTest -->
+</testng-results>
